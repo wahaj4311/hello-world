@@ -149,7 +149,7 @@
         <label id="icon" for="name"><i class="fas fa-unlock-alt"></i></label>
         <input type="password" name="name" id="name" placeholder="Password" required/>
         <hr>
-        <div class="gender">
+        <div class="gender/sex">
           <input type="radio" value="none" id="male" name="gender" checked/>
           <label for="male" class="radio">Male</label>
           <input type="radio" value="none" id="female" name="gender" />
