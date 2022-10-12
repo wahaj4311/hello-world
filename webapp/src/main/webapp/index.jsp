@@ -142,7 +142,7 @@
           <label for="radioTwo" class="radio">Company</label>
         </div>
         <hr>
-        <label id="icon" for="name"><i class="fas fa-envelope"></i></label>
+        <label id="icon" for="naaam"><i class="fas fa-envelope"></i></label>
         <input type="text" name="name" id="name" placeholder="Email" required/>
         <label id="icon" for="name"><i class="fas fa-user"></i></label>
         <input type="text" name="name" id="name" placeholder="Name" required/>
@@ -157,7 +157,7 @@
         </div>
         <hr>
         <div class="btn-block">
-          <p>By clicking Register (y), you agree on our <a href="https://www.w3docs.com/privacy-policy">Privacy Policy for W3Docs</a>.</p>
+          <p>By clicking Register (y). you agree on our <a href="https://www.w3docs.com/privacy-policy">Privacy Policy for W3Docs</a>.</p>
           <button type="submit" href="/">Submit</button>
         </div>
       </form>
