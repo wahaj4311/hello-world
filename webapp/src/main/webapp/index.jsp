@@ -116,7 +116,7 @@
       }
       button {
       width: 100%;
-      padding: 10px 0;
+      padding: 11px 0;
       margin: 10px auto;
       border-radius: 5px; 
       border: none;
